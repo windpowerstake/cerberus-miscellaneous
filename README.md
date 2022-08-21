@@ -3,6 +3,7 @@
 
 
 Version of cerberus: v1.0.1
+
 Chain-id=inferno-1
 
 [config.toml]
