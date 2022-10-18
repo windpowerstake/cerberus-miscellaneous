@@ -40,7 +40,7 @@ Must return v2.0.0
 
 ```
 peers="3e929fa1acdaa4cd5ac14f4bb5d0c69c30519d5e@116.202.143.90:26656"
-sed -i.bak -e s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.chihuahua/config/config.toml
+sed -i.bak -e s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.cerberus/config/config.toml
 ```
 
 
