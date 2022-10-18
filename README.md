@@ -17,21 +17,33 @@ timeout_commit = "29s"
 
 
 `sudo systemctl stop cerberusd
+
 cd ~
+
 rm .cerberus/config/addrbook.json
+
 rm .cerberus/config/genesis.json
+
 rm -rf cerberus
+
 git clone https://github.com/cerberus-zone/cerberus
+
 cd cerberus
+
 git checkout v2.0.0
+
 make install
+
 cerberusd tendermint unsafe-reset-all`
 
+
 Make sure your version is v2.0.0:
+
 `cerberusd version`
 
 
 `peers="3e929fa1acdaa4cd5ac14f4bb5d0c69c30519d5e@116.202.143.90:26656"
+
 sed -i.bak -e s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.chihuahua/config/config.toml`
 
 
