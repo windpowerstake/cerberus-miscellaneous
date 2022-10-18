@@ -46,6 +46,9 @@ sed -i.bak -e s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.chihua
 
 Make sure the persistent peer is: `3e929fa1acdaa4cd5ac14f4bb5d0c69c30519d5e@116.202.143.90:26656`
 
+Get your genesis.json file from discord or from here: https://github.com/windpowerstake/cerberus-testnet/blob/main/genesis.json
+
+
 
 # OLD INFERNO (do not use, just for the record)
 Version of cerberus: v1.0.1
