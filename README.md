@@ -48,6 +48,11 @@ Make sure the persistent peer is: `3e929fa1acdaa4cd5ac14f4bb5d0c69c30519d5e@116.
 
 Get your genesis.json file from discord or from here: https://github.com/windpowerstake/cerberus-testnet/blob/main/genesis.json
 
+Or just with the command:
+
+```
+wget https://raw.githubusercontent.com/windpowerstake/cerberus-testnet/main/genesis.json -P ~/.cerberus/config/
+```
 
 
 # OLD INFERNO (do not use, just for the record)
