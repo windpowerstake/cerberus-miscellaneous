@@ -61,5 +61,7 @@ rm ~/.cerberus/config/genesis.json
 wget https://raw.githubusercontent.com/windpowerstake/cerberus-testnet/main/genesis.json -P ~/.cerberus/config/
 ```
 
+When you are ready, make sure to enable cerberus as a daemon (service) and start the service.
+
 
 tests will commence as soon as some nodes are up in order to support jailings.
