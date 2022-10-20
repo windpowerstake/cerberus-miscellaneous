@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2022-10-18T21:29:57.834131124Z",
-  "chain_id": "inferno-1",
+  "genesis_time": "2022-10-20T21:11:29.115813256Z",
+  "chain_id": "inferno-2",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -33,21 +33,14 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "cerberus1kjkw4u90muk70f24ah2094qf6qj8gy547vv4k8",
+          "address": "cerberus1t0wn6apkp4lw3g36zq4yj9dzwe2md4teugnkdp",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "cerberus1vma756zm86f3kkcwsw8e9c7y9h0udnawcr752a",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "cerberus195aqzp8a293z33zhaeek2489mm4d9yapg6jjvc",
+          "address": "cerberus1wsvc6jgeeyrakjn5zf9g6nw349rhdfnsjjk7ed",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -64,7 +57,7 @@
       },
       "balances": [
         {
-          "address": "cerberus195aqzp8a293z33zhaeek2489mm4d9yapg6jjvc",
+          "address": "cerberus1t0wn6apkp4lw3g36zq4yj9dzwe2md4teugnkdp",
           "coins": [
             {
               "denom": "ucrbrusx",
@@ -73,16 +66,7 @@
           ]
         },
         {
-          "address": "cerberus1vma756zm86f3kkcwsw8e9c7y9h0udnawcr752a",
-          "coins": [
-            {
-              "denom": "ucrbrusx",
-              "amount": "100000000000000000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "cerberus1kjkw4u90muk70f24ah2094qf6qj8gy547vv4k8",
+          "address": "cerberus1wsvc6jgeeyrakjn5zf9g6nw349rhdfnsjjk7ed",
           "coins": [
             {
               "denom": "ucrbrusx",
@@ -137,7 +121,7 @@
               {
                 "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
                 "description": {
-                  "moniker": "windpower09",
+                  "moniker": "windpowerAsus",
                   "identity": "",
                   "website": "",
                   "security_contact": "",
@@ -149,11 +133,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "cerberus1kjkw4u90muk70f24ah2094qf6qj8gy547vv4k8",
-                "validator_address": "cerberusvaloper1kjkw4u90muk70f24ah2094qf6qj8gy54taxjve",
+                "delegator_address": "cerberus1t0wn6apkp4lw3g36zq4yj9dzwe2md4teugnkdp",
+                "validator_address": "cerberusvaloper1t0wn6apkp4lw3g36zq4yj9dzwe2md4tefee3hl",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "2t5dHrJ8vDUE6LJu+PxB3GsYPxwjNVz1ViLFmkH3PjY="
+                  "key": "fQ1jvH2wm3ZHDZK3vR8oxss+TeparGim6EiOIdu9nks="
                 },
                 "value": {
                   "denom": "ucrbrusx",
@@ -161,7 +145,7 @@
                 }
               }
             ],
-            "memo": "3e929fa1acdaa4cd5ac14f4bb5d0c69c30519d5e@116.202.143.90:26656",
+            "memo": "ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -171,7 +155,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "A7x+3umS+eksJEnfi7z4DwhnPejX74+cRVUnI8MKXY6P"
+                  "key": "A8P6nKzcvawALFMTxMeW2HpMIdfzYd+zUA1XylxXUVab"
                 },
                 "mode_info": {
                   "single": {
@@ -189,7 +173,7 @@
             }
           },
           "signatures": [
-            "Eucil4nEFI+NNF9/vHQxg5fmFZ8HXxI7ZFDP5/i79xUpBHxNVCi/GX9EL8CWREhQuhSPzEZoU3Zx6D4w2/Aq+A=="
+            "2WBJl+8YjNQNd51XL/7+oYqTkyknzom64X3YKDRZKTAoGwl18YdKjrFAWIQPH6Ig2rkAjsPrn2ClGJGCUaka5A=="
           ]
         },
         {
@@ -198,7 +182,7 @@
               {
                 "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
                 "description": {
-                  "moniker": "windpowi02",
+                  "moniker": "windpower22",
                   "identity": "",
                   "website": "",
                   "security_contact": "",
@@ -210,11 +194,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "cerberus195aqzp8a293z33zhaeek2489mm4d9yapg6jjvc",
-                "validator_address": "cerberusvaloper195aqzp8a293z33zhaeek2489mm4d9yapatc4kx",
+                "delegator_address": "cerberus1wsvc6jgeeyrakjn5zf9g6nw349rhdfnsjjk7ed",
+                "validator_address": "cerberusvaloper1wsvc6jgeeyrakjn5zf9g6nw349rhdfns8ruern",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "EjUEiJR3/YiFG1jyRrELQ5OT3OJJHunDqRdnn/e3WUM="
+                  "key": "A8JDgU3uDytHBiegP+UQ4pjakLmRvXnzKyISpMvc1v8="
                 },
                 "value": {
                   "denom": "ucrbrusx",
@@ -222,7 +206,7 @@
                 }
               }
             ],
-            "memo": "bdfb544aa040a14a3d19ec66067b1be967005a00@192.168.178.47:26656",
+            "memo": "ebc1247ce0114dbf004e3d534fbbfe5daef1ac65@192.168.178.47:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -232,7 +216,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "A0kd0R0VCvW6bh1qVamc4uC07x7nRs4eOh9S1zXBk/T6"
+                  "key": "A7RFk2ZOLkDkCGxYbk7HiNo9s5hBdNSuQU3BpuuLkixv"
                 },
                 "mode_info": {
                   "single": {
@@ -250,7 +234,7 @@
             }
           },
           "signatures": [
-            "dvhiR2CyUKZMQFeZiuLBALCe0YoC+rpygs9OTomiprlSUR0N+6lA1UFUqHBWyhZiEceNlsB4zUzOrFIcr55mxg=="
+            "dFqgIET4XqErivTXRvSYXJFJp8krrCj5ElkO3HGcZoEptmPPEtxtmuf2G20lxHHdYBzFNDhZ4tCMgKWasdw5LQ=="
           ]
         }
       ]
@@ -273,7 +257,7 @@
         "voting_period": "86400s"
       },
       "tally_params": {
-        "quorum": "0.104000000000000000",
+        "quorum": "0.100000000000000000",
         "threshold": "0.500000000000000000",
         "veto_threshold": "0.334000000000000000"
       }
@@ -328,9 +312,9 @@
     "params": null,
     "slashing": {
       "params": {
-        "signed_blocks_window": "2000",
+        "signed_blocks_window": "1000",
         "min_signed_per_window": "0.050000000000000000",
-        "downtime_jail_duration": "300s",
+        "downtime_jail_duration": "600s",
         "slash_fraction_double_sign": "0.050000000000000000",
         "slash_fraction_downtime": "0.010000000000000000"
       },
