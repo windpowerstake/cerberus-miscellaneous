@@ -51,6 +51,7 @@ Get your genesis.json file from discord or from here: https://github.com/windpow
 Or just with the command:
 
 ```
+rm ~/.cerberus/config/genesis.json
 wget https://raw.githubusercontent.com/windpowerstake/cerberus-testnet/main/genesis.json -P ~/.cerberus/config/
 ```
 
