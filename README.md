@@ -1,12 +1,12 @@
 # cerberus-testnet
 
-# NEW
+# inferno-2
 Version of cerberus: v2.0.0
 
-Chain-id=inferno-1
+chain-id=inferno-2
 
 [config.toml]
-persistent_peers = "3e929fa1acdaa4cd5ac14f4bb5d0c69c30519d5e@116.202.143.90:26656"
+persistent_peers = "ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:26656"
 
 
 #timeout_commit: Please set it up to 29s. I took spare machines with small disks at the moment. We can accelerate later on when we are all onboarded and ready for the votings. 
@@ -39,12 +39,12 @@ Must return v2.0.0
 
 
 ```
-peers="3e929fa1acdaa4cd5ac14f4bb5d0c69c30519d5e@116.202.143.90:26656"
+peers="ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:26656"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.cerberus/config/config.toml
 ```
 
 
-Make sure the persistent peer is: `3e929fa1acdaa4cd5ac14f4bb5d0c69c30519d5e@116.202.143.90:26656`
+Make sure the persistent peer is: `ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:26656`
 
 Get your genesis.json file from discord or from here: https://github.com/windpowerstake/cerberus-testnet/blob/main/genesis.json
 
@@ -55,7 +55,7 @@ wget https://raw.githubusercontent.com/windpowerstake/cerberus-testnet/main/gene
 ```
 
 
-# OLD INFERNO (do not use, just for the record)
+# OLD inferno-1 (do not use, just for the record)
 Version of cerberus: v1.0.1
 
 Chain-id=inferno-1
