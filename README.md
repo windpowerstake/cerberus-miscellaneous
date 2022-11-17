@@ -19,11 +19,10 @@ timeout_commit = "29s"
 ```
 sudo systemctl stop cerberusd
 rm -rf ~/cerberus
-git clone https://github.com/cerberus-zone/cerberus
+git clone https://github.com/windpowerstake/cerberus
 cd cerberus/
 git checkout v2.0.1
 make install
-git clone https://github.com/cerberus-zone/cerberus
 
 cd ~
 rm -rf ~/.cerberus/
