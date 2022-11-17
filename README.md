@@ -1,9 +1,9 @@
 # cerberus-testnet
 
-# inferno-2
-Version of cerberus: v2.0.0
+# inferno-1
+Version of cerberus: v2.0.1
 
-chain-id=inferno-2
+chain-id=inferno-1
 
 [config.toml]
 persistent_peers = "ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:26656"
@@ -27,7 +27,7 @@ git clone https://github.com/cerberus-zone/cerberus
 
 cd ~
 rm -rf ~/.cerberus/
-cerberusd init "yourMonikerNode" --chain-id "inferno-2"
+cerberusd init "yourMonikerNode" --chain-id "inferno-1"
 ```
 
 
@@ -36,7 +36,7 @@ Make sure your version is ok:
 ```cerberusd version```
 
 
-Must return v2.0.0
+Must return v2.0.1
 
 
 ## An automation to put your peers in your config.toml file:
@@ -50,7 +50,7 @@ Make sure the persistent peer is: `ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.
 
 If this does not work do it manually.
 
-## Reload the genesis for inferno-2
+## Reload the genesis for inferno-1
 
 Get your genesis.json file from discord or from here: https://github.com/windpowerstake/cerberus-testnet/blob/main/genesis.json
 
@@ -61,7 +61,14 @@ rm ~/.cerberus/config/genesis.json
 wget https://raw.githubusercontent.com/windpowerstake/cerberus-testnet/main/genesis.json -P ~/.cerberus/config/
 ```
 
+Verify the shasum:
+``` 
+jq -S -c -M '' ~/.cerberus/config/genesis.json | sha256sum
+#returns b1adc4f0cf6ce9854c2a8076a88347cdada1773c784aa4f887693d6f5eba8434  -
+```
+
+
 When you are ready, make sure to enable cerberus as a daemon (service) and start the service.
 
 
-tests will commence as soon as some nodes are up in order to support jailings.
+testnet is up and running
