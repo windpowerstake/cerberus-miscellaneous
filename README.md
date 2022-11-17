@@ -1,9 +1,9 @@
 # cerberus-testnet
 
-# inferno-1
+# inferno-2
 Version of cerberus: v2.0.1
 
-chain-id=inferno-1
+chain-id=inferno-2
 
 [config.toml]
 persistent_peers = "ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:26656"
@@ -13,7 +13,7 @@ persistent_peers = "ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:2665
 
 timeout_commit = "29s"
 
-## instructions for old validators of inferno-1, so you can re-use your node
+## instructions for old validators of inferno-2, so you can re-use your node
 
 
 ```
@@ -27,7 +27,7 @@ git clone https://github.com/cerberus-zone/cerberus
 
 cd ~
 rm -rf ~/.cerberus/
-cerberusd init "yourMonikerNode" --chain-id "inferno-1"
+cerberusd init "yourMonikerNode" --chain-id "inferno-2"
 ```
 
 
@@ -50,7 +50,7 @@ Make sure the persistent peer is: `ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.
 
 If this does not work do it manually.
 
-## Reload the genesis for inferno-1
+## Reload the genesis for inferno-2
 
 Get your genesis.json file from discord or from here: https://github.com/windpowerstake/cerberus-testnet/blob/main/genesis.json
 
