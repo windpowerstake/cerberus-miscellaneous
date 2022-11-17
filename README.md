@@ -21,7 +21,7 @@ sudo systemctl stop cerberusd
 rm -rf ~/cerberus
 git clone https://github.com/cerberus-zone/cerberus
 cd cerberus/
-git checkout v2.0.0
+git checkout v2.0.1
 make install
 git clone https://github.com/cerberus-zone/cerberus
 
