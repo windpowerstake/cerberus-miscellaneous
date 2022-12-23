@@ -1,19 +1,19 @@
 # cerberus-testnet
 
-# inferno-2
+# inferno-1
 Version of cerberus: v2.0.1
 
-chain-id=inferno-2
+chain-id=inferno-1
 
 [config.toml]
-persistent_peers = "ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:26656"
+persistent_peers = "96e945f29671a62dd23b1228021522cbb91a86f4@116.202.143.90:26656"
 
 
 #timeout_commit: Please set it up to 29s. I took spare machines with small disks at the moment. We can accelerate later on when we are all onboarded and ready for the votings. 
 
 timeout_commit = "29s"
 
-## instructions for old validators of inferno-2, so you can re-use your node
+## instructions for old validators of inferno-1, so you can re-use your node
 
 
 ```
@@ -26,7 +26,7 @@ make install
 
 cd ~
 rm -rf ~/.cerberus/
-cerberusd init "yourMonikerNode" --chain-id "inferno-2"
+cerberusd init "yourMonikerNode" --chain-id "inferno-1"
 ```
 
 
@@ -41,15 +41,15 @@ Must return v2.0.1
 ## An automation to put your peers in your config.toml file:
 
 ```
-peers="ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:26656"
+peers="96e945f29671a62dd23b1228021522cbb91a86f4@116.202.143.90:26656"
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" ~/.cerberus/config/config.toml
 ```
 
-Make sure the persistent peer is: `ad2d97b4e852c9b1cced5dc5981ffffdefa9d5f1@116.202.143.90:26656`
+Make sure the persistent peer is: `96e945f29671a62dd23b1228021522cbb91a86f4@116.202.143.90:26656`
 
 If this does not work do it manually.
 
-## Reload the genesis for inferno-2
+## Reload the genesis for inferno-1
 
 Get your genesis.json file from discord or from here: https://github.com/windpowerstake/cerberus-testnet/blob/main/genesis.json
 
@@ -63,7 +63,7 @@ wget https://raw.githubusercontent.com/windpowerstake/cerberus-testnet/main/gene
 Verify the shasum:
 ``` 
 jq -S -c -M '' ~/.cerberus/config/genesis.json | sha256sum
-#returns b1adc4f0cf6ce9854c2a8076a88347cdada1773c784aa4f887693d6f5eba8434  -
+#returns 4d0e997e3ba6a555c5c7b39be86d5a2561666fe2b5ac958a0be8a0c80d998128  -
 ```
 
 
