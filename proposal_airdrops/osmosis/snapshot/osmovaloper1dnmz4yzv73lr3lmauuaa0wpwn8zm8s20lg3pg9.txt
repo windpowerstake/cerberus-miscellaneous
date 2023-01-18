@@ -1,0 +1,172 @@
+delegation_responses:
+- balance:
+    amount: "10873251"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1p9qumehj5635lnqt6nechwjc8kzpx44xcgezx9
+    shares: "10873251.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "9150000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zdheaa42yjxkx52vce00fe2gdha4vjz8vqz4k8
+    shares: "9150000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "51000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zemqgkmldkea8mws0lz55syrxtzznsjcn5zcw3
+    shares: "51000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "925656"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1g3rgj5wxr5d4u5q3eksydrvkukqwugk5w5kczh
+    shares: "925656.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "1200"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1g3t4a5lj7at4lu4kux329fdmf29aq8kv7nvyg6
+    shares: "1200.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "10500000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1gcks0lwgw7x5p20yw23djd327gt8w0lp28zzk3
+    shares: "10500000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "7000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1fuuuvgwsrrf3zy46azu22kzrskww9ftek4vzph
+    shares: "7000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "4394700"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo125tgas63n9q2un9zjk33mssyy5sksq8utfrdh3
+    shares: "4394700.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "154000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1vcrzezdkzqga9ns6x26pyj6plxus2gwmj8ncyq
+    shares: "154000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "8309944201"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1dnmz4yzv73lr3lmauuaa0wpwn8zm8s209lezlz
+    shares: "8309944201.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "1697531255"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1d4jr9ua5c89hkjdp4jfnrcaqelmgwj57h49sdm
+    shares: "1697531255.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "51667"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1dkv08zcepkwvzfhmf2aq0jy2dtqtu0hh9a2rk7
+    shares: "51667.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "4000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo10ap8tzctj487qgvwdzjqfu96zrtwuujzk7m40p
+    shares: "4000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "1053846004"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo13g2wxwgkng7qle9655rcftk0qs9yulz62327v8
+    shares: "1053846004.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "9743361266"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1nvpw5frclvlz56z8elydz7g2xd3yaaxh0866rz
+    shares: "9743361266.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "4657603"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1ne2nacujw6h2pkmy8gtvwc2fv2rnz2mn97sdyk
+    shares: "4657603.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "148105445"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1hv3ky8g7qvdgsca0q90ueedukyvl8k3w0grvwd
+    shares: "148105445.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "48262312043"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1c05ewpsn5rpj0jayvljyzcduf2stv4ql46l3ju
+    shares: "48262312043.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "10000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1cay2udnvc6gxdll68rut62vns5ds76d0p0hjd0
+    shares: "10000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "60000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo16vul48t34hq45jkl3jp02qd6w7njhyv0trh90p
+    shares: "60000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "39355000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo16dcwlyrwx8duucsr363zqqsf2prc5gv5x8efcw
+    shares: "39355000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "1200"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo16w54wgxwytkhfajc5dmkkzztjhek0egqhtgxcj
+    shares: "1200.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "2000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1uq4ndfddh50nse9h6t7gp7lwgfykg8my2f93jz
+    shares: "2000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+- balance:
+    amount: "29000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1uahpzuy64pq9uwywuymlfn505pt9r6cpx38rwf
+    shares: "29000000.000000000000000000"
+    validator_address: osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9
+pagination:
+  next_key: null
+  total: "0"

@@ -1,0 +1,11 @@
+delegation_responses:
+- balance:
+    amount: "30500000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1g239l2skjnz3dszek5s5npquza5gvypdp2ayl9
+    shares: "30500000.000000000000000000"
+    validator_address: osmovaloper1g239l2skjnz3dszek5s5npquza5gvypdma48gz
+pagination:
+  next_key: null
+  total: "0"
