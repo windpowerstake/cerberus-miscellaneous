@@ -1,0 +1,704 @@
+delegation_responses:
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1qp4xgfv5ar6nz7ukdh2rsgw30w9vh5fvszfuw3
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "100000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1qy9cktcwj0k6dl0j7jryg078ycsxz3xsukycs3
+    shares: "100000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "500"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1qxtyxppvuqx4kvq8nvggk3gwcs9p29htz9j7aw
+    shares: "500.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "10000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1q2yg7spqj5jq8hmvrl79mkrj63algyuewu6ex6
+    shares: "10000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "5000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1qt8sa47jfhprpm5fqqd5mwqd7ugdn2gp6qfvcj
+    shares: "5000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "83152838"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1qv4flq74n8f2s3y03drtxqxxm2fwyaxevrkwpw
+    shares: "83152838.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "2000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1qd6yla4u5udapy6w68s4lq4uqhltccs95u02x4
+    shares: "2000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1qwsrk4hsa0t7ksnakdrhp4m274n89pg8k8726u
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "12415970"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1qwssf4rjqkv6j59f9gtj0dtp8d2cc6zwcyaqcq
+    shares: "12415970.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "189031627"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1qj0n7063lq9gqqjrl46plvwt624ddzg9ru7fx8
+    shares: "189031627.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "6036"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1q50hkqt3lx3d9lpsj523n0qj3epr9hfsjdvwlz
+    shares: "6036.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1q7wvfxlnggu9w3jenea268kxh5c2cspa5q25q3
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1pzu2j9v9kd3kxgrdgx37wm0xa7h03j9cnhwyru
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "9755391"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1prmpw8frddrva9frfhd3uskxt3s4cqw6jaz92e
+    shares: "9755391.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "100000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1pynemvundc3sv2s50c99zxqe03q6cycdagxmu2
+    shares: "100000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "17000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1pgfky9ctr6fnclj9l7zdxfynpm5newcrpjr0we
+    shares: "17000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "100"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1pfeqdzvgt4q688gpqswu5jysuns7d4lqxfsu6x
+    shares: "100.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "14282212575"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1ptluc0f2p9lzsf3ww0s2jcr4r486krqp6lesc5
+    shares: "14282212575.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1p0r7lju49zzfnya0hpa02mal79l4m6tkp7wwpp
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1p0s43hynldf3xyu0v39ffwcq8l6pnxu9l9u3f9
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1p0a6zmlklyzhdfd4nn2yp6q0rftj7h2hav3u5g
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "20000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1psmcg6xp93leljuurf5z8vatxw7ay8dtd3pjar
+    shares: "20000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1pj0lvmv60lp260wjxqy0fcckzq602jm7t0xxzs
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "2458562"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1pjc2lncyq6r0pkr9yhy6v3etjz8gfvguaf0vu9
+    shares: "2458562.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1pn2cqu4y25slt2jra8j62kvfy9pefwt2meae0k
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1pkcugxv0wjxcw07l3nqww7htzvwgx89ym8rd9n
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "22063898"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1ph48uk38zm9s7jhg05yatx6xgqfr5482erjs0q
+    shares: "22063898.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1118000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1p68dxt09ngy2suqghgq8y725qffw5lrs4jwrum
+    shares: "1118000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "116151130"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1panqzy9ag7gtktx6w9ys0fp2xawj2wgfklrfjj
+    shares: "116151130.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "10000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1p7gjlv8u6gfw7vusm7vyg5ze25le0ehf93xnge
+    shares: "10000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zqauhhxxgfz585l2fmdctf9us6e75pxr3j54dc
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zgpa6k7sarj4q32th3ufdn3ytyht4ypp6lc46l
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "8133042"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zwnzthzckesnxh22q2g6w8l32h6cm4c0k43e62
+    shares: "8133042.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "7600000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zsjynu7qum0zjsmf49t5y4quvsa0nc09cn8kap
+    shares: "7600000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "5530000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1z3dd7dhpgppnh3gls6us64wecypu2s4vcxt9d4
+    shares: "5530000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "90249933"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1z4t79uzkq3fxttnp62zdc5am570wah3w37wfgg
+    shares: "90249933.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "2634716"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zh3csvqpkgk4dca5e2l95nglzxd8y0dq8lul82
+    shares: "2634716.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zhhv0hfaf8kcfsrhedfv73js5hjv8ddjmtwp64
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "54000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zmqh3swggyjlm3zcpuz5ursxe6gm32exut4rlm
+    shares: "54000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zuc9ygwymjdv3wxzjp4jetwjcr2wwdgjd2p94s
+    shares: "1000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "10000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1zajfu2k8wf89cj3k9mw90cr0jjz745f7zmy0js
+    shares: "10000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "131562"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1z7slte5zhx638n24ljfagwf2jedk8e6h79s2t0
+    shares: "131562.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "14061841"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1rr8mere98wumy3rz20ak0ea8mp6sqn842xtqy7
+    shares: "14061841.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "12000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1rxm6czp02e64zq4cxcrhqextp5khz426gneu3n
+    shares: "12000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1r8f2c2kdt7veq470g4ghxv6yzfwcl0df2lztsv
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1058792"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1r8d0jt7es6nwzkjgun6yl03mya2uu4edp5sdlh
+    shares: "1058792.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "775321583"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1r2hr63a78655eew3f5k7q9efr439aplcy8capv
+    shares: "775321583.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "10000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1rvnmayfa640t8f7gevae960pzgtj7dlh8efdjr
+    shares: "10000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "2000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1rwwu6u7v67dklhlzrmhng6n2fsr9x24shj385v
+    shares: "2000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "267323398"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1rwu6xp8r2t364wcpjveduzr6sktcw7785ua3xp
+    shares: "267323398.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1rsusq5syxkqr3la7a65d7tkmh6dvaag5tg5p6e
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1r37fgyplnpj63gkjqxeaetl3sgz35qkkn039el
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1r4p7fjml9zge73g54atgsklcy33pazzu2eqw65
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "100"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1yqvswpmmvyj8ew7de7fv5reyntkkpvzeagjf8v
+    shares: "100.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1yzjan3jqwj6k8fn9m632f8rjtjmm2n0uy0m38n
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1yrysh50pdg93580r8etpl85mzasc9zrrf8kedj
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "108000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1yrakn089qypz9335vvrjv9h7zyevjhksje4tcw
+    shares: "108000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1yyhvmmzm65nxmxweg6zp4tz6s8as39kfdxrum2
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1y8w8dt2j43y7jhh8q29pgmpth05mqmgs4j9mkk
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "5250000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1y2kux97fe8a3zjkxd9j3ymmgq2eu0ptjm75tu2
+    shares: "5250000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1400000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1y2m2w0g0fg3gdhsdz442kd3atd3npujha72uc4
+    shares: "1400000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1yts6nmaclltnapx384f7kt7t4hqa7mmcq8pp68
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "5000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1ym0dmpfg6pmgqqf69uq958gaxkpe3ch9x2j79d
+    shares: "5000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "11000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo19pf3x8ml68q3ju0tp8fs8qgs0yzwx05r8y5fd9
+    shares: "11000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "2000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo19fqttd6jz0d5f6ys3u2gvlwz5627v3qprasv2x
+    shares: "2000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "10000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo19249csgx5qx8hafe8t68rqunyajxw0x0v0368x
+    shares: "10000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "72650"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo19t7yv0szy25yfun4k3fqsv47xxw0yhe300lvqy
+    shares: "72650.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "113922"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo19strm8genu6n4frhk230mfat28umwm732haeqt
+    shares: "113922.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1932d3flvwygf8pm4zcvjke9l0mjgdf7rjfyq2z
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "797500000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo19nunm609z39s7raa5s0artxxhvsjj4ydjv49n7
+    shares: "797500000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "101027"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo197hme2x8nd4gu6xffm24dnra2nw02hg4m5aqhu
+    shares: "101027.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "2000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1xrk6s7wv9f23z8qg0ncptplev6ru47c5ydvpd5
+    shares: "2000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1xyrcpj0qqx4a3a24eu0fd5rav97m4acpjnqymh
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "12000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1x8zzcxyrwag22vqzsydz8wklwghrf654p825zg
+    shares: "12000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1xt790uf9n9zv0ars2ga5lkg706z07c2rktylhc
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "42198107"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1xwkstha876dux8p28kf7sy6v6c3zk5lmhszr4s
+    shares: "42198107.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "2000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1x0gujvlj9u8wavcx0nsmfhtlem7088ms5grgnl
+    shares: "2000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1xs04hhsm9cq6z2c8g7hqnehu26vp6xqv6kz9jg
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "10000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1xs79nssadxszdaefjwsvd8wsea965sthkg0uyg
+    shares: "10000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "7504583"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1xjvte23d8v03nwryavn7akqvqlvd3e5hfwssqg
+    shares: "7504583.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "5000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1xnewquchads7nhnqknx20xr4px7um6xtjlj9kg
+    shares: "5000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "17125052"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1x6qk55tenx593x43j0vetqk84f7y464p8scd26
+    shares: "17125052.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "39517019"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1x6lf878fq8patm4sktrdzp8ueg5227qnkkfc3j
+    shares: "39517019.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1065000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1xmlsjk8q6h3xz70h99a9cea5q05dsp96weee6g
+    shares: "1065000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo18z8rnx6jp60lk3zj6ktcp6j7cdrpm0vgv30ug0
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1051"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo18rq6l3hvdf7grzgu8ta6sm9xxvrcfsdnsj09cu
+    shares: "1051.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo18rnmasqwfvflzhe9s2mzw4qc94t7zkqhl0nx26
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo18yvzj6erg23p9mu0jcsj698dj2739uhlpfvhes
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "205428984"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo18gmgltfd4ww37naxuy4ecvkswc6dt36dj2yzy6
+    shares: "205428984.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "57657487"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo18d8cdmlsx9ztrd4qpjk4qvax24pnjy23faanw3
+    shares: "57657487.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "19000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo180a3m9y5j9kxwyyy3u78ydc3yrhmwfgfqpn4kv
+    shares: "19000000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "139548"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1856jrf5utqcqtfsjex4rtms398sj9tlr0w7c7t
+    shares: "139548.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "218790371"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo18utawmxge83fyg3agnjflvc88pdwa8r2whtn3a
+    shares: "218790371.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo18a76m6fwvpj22m7z2u4zftsylq6n46ul777yje
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "2000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo187cmhay0pnhz7l0g7wax8fqed4356ffett4r9d
+    shares: "2000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1ggx4ex5z8438ulp2unzds6y9cm00hayghk5ns3
+    shares: "1.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "5611541"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1ggv0ve355lzlfwjr0gg5rwwgnce8qehsn3rtyu
+    shares: "5611541.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "1000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1ggl0j8ras06ryd9q8kx58huwdfgugf370c07eg
+    shares: "1000.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "27353031"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1gvex9m4ahmel4e4hmupcttptcuqpkcv9c5gfv7
+    shares: "27353031.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+- balance:
+    amount: "12967836"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1g0284uw9sqfuth4l788xakrnwzpqwm208r4h4l
+    shares: "12967836.000000000000000000"
+    validator_address: osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg
+pagination:
+  next_key: FERK1ke4MEd7kzvNis6C2oZL0vUBFKw4ISXeHYXuWydxf3WubMutz0Gv
+  total: "0"

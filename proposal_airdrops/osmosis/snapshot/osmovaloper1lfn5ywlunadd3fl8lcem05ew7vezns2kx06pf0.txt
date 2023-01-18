@@ -1,0 +1,11 @@
+delegation_responses:
+- balance:
+    amount: "1000000"
+    denom: uosmo
+  delegation:
+    delegator_address: osmo1lfn5ywlunadd3fl8lcem05ew7vezns2kucjz7g
+    shares: "1000000.000000000000000000"
+    validator_address: osmovaloper1lfn5ywlunadd3fl8lcem05ew7vezns2kx06pf0
+pagination:
+  next_key: null
+  total: "0"
