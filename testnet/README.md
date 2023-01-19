@@ -60,7 +60,7 @@ Get your genesis.json file from discord or from here: https://github.com/windpow
 Or just with the command:
 
 ```
-#WAIT FOR THIS STEP, SOME MINUTES
+#download genesis
 rm ~/.cerberus/config/genesis.json
 wget https://raw.githubusercontent.com/windpowerstake/cerberus-testnet/main/genesis.json -P ~/.cerberus/config/
 ```
@@ -68,11 +68,11 @@ wget https://raw.githubusercontent.com/windpowerstake/cerberus-testnet/main/gene
 Verify the shasum:
 ``` 
 jq -S -c -M '' ~/.cerberus/config/genesis.json | sha256sum
-#returns TBD  -
+#returns 7bfb02dff80781fdf030b02c974a797ebbd8bd0e5ebab06e3544ff32c13cdc2f  -
 ```
 
 
 When you are ready, make sure to enable cerberus as a daemon (service) and start the service.
 
 
-testnet NOT YET UP, 2 MINS
+testnet is up, ask for tokens in the testnet channel
