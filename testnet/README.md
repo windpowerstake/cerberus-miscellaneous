@@ -55,14 +55,14 @@ If this does not work do it manually.
 
 ## Reload the genesis for inferno-1
 
-Get your genesis.json file from discord or from here: https://github.com/windpowerstake/cerberus-testnet/blob/main/genesis.json
+Get your genesis.json file from discord or from here: https://github.com/windpowerstake/cerberus-miscellaneous/blob/main/testnet/genesis.json
 
 Or just with the command:
 
 ```
 #download genesis
 rm ~/.cerberus/config/genesis.json
-wget https://raw.githubusercontent.com/windpowerstake/cerberus-testnet/main/genesis.json -P ~/.cerberus/config/
+wget https://raw.githubusercontent.com/windpowerstake/cerberus-miscellaneous/main/testnet/genesis.json -P ~/.cerberus/config/
 ```
 
 Verify the shasum:
