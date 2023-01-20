@@ -23,7 +23,7 @@ iavl-disable-fastnode = false
 ```
 sudo systemctl stop cerberusd
 rm -rf ~/cerberus
-git clone https://github.com/windpowerstake/cerberus
+git clone https://github.com/cerberus/cerberus
 cd cerberus/
 git checkout v3.0.1
 make install
@@ -71,8 +71,32 @@ jq -S -c -M '' ~/.cerberus/config/genesis.json | sha256sum
 #returns  ddc8ce7ec57b781854540831c006bf2ca812da479b22dc749fe69d8173c83a72 -
 ```
 
+## Putting the daemon in place
+
+Daemons usually go into /etc/systemd/system/cerberusd.service
+
+Assuming you call your service cerberusd
 
 When you are ready, make sure to enable cerberus as a daemon (service) and start the service.
 
 
+## First catch up
+Node will go until block 1170. It will gracefully stop and demand for upgrade 'ciacco'
+
+Stop the node and go for the upgrade
+
+
+```
+sudo systemctl stop cerberusd
+cd ~/cerberus
+git checkout v3.1.0
+make install
+# check that your version is v3.1.0, commit db573b15b5d4a12bfe36a6e7fd3e609d459c57f8
+cerberusd version --long | head
+start again the service
+```
+
+
 testnet is up, ask for tokens in the testnet channel
+
+
