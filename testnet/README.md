@@ -68,7 +68,7 @@ wget https://raw.githubusercontent.com/windpowerstake/cerberus-miscellaneous/mai
 Verify the shasum:
 ``` 
 jq -S -c -M '' ~/.cerberus/config/genesis.json | sha256sum
-#returns 7bfb02dff80781fdf030b02c974a797ebbd8bd0e5ebab06e3544ff32c13cdc2f  -
+#returns  ddc8ce7ec57b781854540831c006bf2ca812da479b22dc749fe69d8173c83a72 -
 ```
 
 
