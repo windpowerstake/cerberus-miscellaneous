@@ -32,3 +32,10 @@ excluded_addresses = [
     "cerberus1mey5jxekxeat0ptryhxq2qrpnc4pxpm9k7z9wx",
     # ... Add the rest of the excluded addresses
 ]
+
+# Raw export (do not use)
+Contains the Excluded addresses.
+Unless it's for verification the raw export is a more heavy document containing the same data.
+We'll provide a copy in backup02.windpowerstake.com
+
+Also the contents can be crosschecked with other node operators.
