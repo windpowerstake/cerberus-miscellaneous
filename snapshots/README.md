@@ -3,6 +3,7 @@
 * Height stop of the Chain
 * Combination
 
+For generic snapshots/and/or airdrops it is recommended to go for the Combination in order to gather the community as a whole and leave no one behind.
 
 # Cerberus status export
 Here contained you can find:
