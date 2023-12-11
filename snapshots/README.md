@@ -1,7 +1,7 @@
 # List of snapshots
 * Height mid February
 * Height stop of the Chain
-* Combination
+* [Combination](./combination_proposal/README.md)
 
 For generic snapshots/and/or airdrops it is recommended to go for the Combination in order to gather the community as a whole and leave no one behind.
 
