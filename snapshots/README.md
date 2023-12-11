@@ -1,7 +1,7 @@
 # List of snapshots
-* Height mid February
-* Height stop of the Chain
-* [Combination](./combination_proposal/README.md)
+* [Height mid February](./snapshot_cerberus_4574265)
+* [Height stop of the Chain](./snapshot_cerberus_lastblock)
+* [Combination](./combination_proposal)
 
 For generic snapshots/and/or airdrops it is recommended to go for the Combination in order to gather the community as a whole and leave no one behind.
 
