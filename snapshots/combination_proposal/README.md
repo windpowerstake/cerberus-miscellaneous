@@ -1,12 +1,11 @@
 # Combination proposal (TBD)
-This is a combination proposal
+This is a combination proposal. In case someone thinks of airdrops for the cerberus community.
 
 ## Last block is 4849999 / Snapshot prop is 4574265
 Here contained you can find:
-* export of the json file (from the blockchain).
 * python algo for treating the data
 * python algo to combine the data
-* the resulting csv file with all the addresses possessing some ucrbrus onchain at the moment of closure
+* the resulting csv file with all the addresses possessing some ucrbrus combined in both snapshots (average)
 
 # List of founder controlled addresses / excluded:
 excluded_addresses = [
