@@ -1,7 +1,6 @@
 # List of snapshots
 * [Height mid February](./snapshot_cerberus_4574265)
-* [Height stop of the Chain](./snapshot_cerberus_lastblock)
-* [Combination](./combination_proposal)
+
 
 For generic snapshots/and/or airdrops it is recommended to go for the Combination in order to gather the community as a whole and leave no one behind.
 
@@ -11,9 +10,8 @@ Here contained you can find:
 * python algo for treating the data
 * the resulting csv file with all the addresses possessing some ucrbrus onchain at the moment of closure
 
-# List of founder controlled addresses / excluded:
-excluded_addresses = [
-    "cerberus1krc59rqye9ptzurkyuccu6ykse895m9cfwv956",
+# List of founder controlled addresses / non-users / foundations:
+excluded_addresses =     "cerberus1krc59rqye9ptzurkyuccu6ykse895m9cfwv956",
     "cerberus140l6y2gp3gxvay6qtn70re7z2s0gn57zs7ndn2",
     "cerberus1xwazl8ftks4gn00y5x3c47auquc62ssuevxnnm",
     "cerberus1lxz6ucd5qydhpwtpatn9wu83fc002v087guacf",
@@ -35,8 +33,20 @@ excluded_addresses = [
     "cerberus13uz8x0rgm950639yklqq5tnjh6gwfpfhft5r7g5e13",
     "cerberus1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3fufxvu",
     "cerberus1mey5jxekxeat0ptryhxq2qrpnc4pxpm9k7z9wx",
-    # ... Add the rest of the excluded addresses
-]
+    "cerberus1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8mcy4u5",
+    "cerberus1kq2rzz6fq2q7fsu75a9g7cpzjeanmk685z9kwl",
+    "cerberus1tygms3xhhs3yv487phx3dw4a95jn7t7lau4h6g",
+    "cerberus1p6ea5azz4m96pkh7hxa34tw0d7pd2da7r4llwy",
+    "cerberus1defc3wwn5z3jk5zwsv5mg49dcamdvz89rs2k7r",
+    "cerberus10zwf7p04axrn4jn7n25pam4yjuxwjvuqp6v7kf",
+    "cerberus1n55yq23pwjyuq3w29dj03eq249y07kpna5sh96",
+    "cerberus1s8462924rzrmgs50hptk9c96qd3ap8zxkcn9yf",
+    "cerberus1urr9m9hkkxmlrky2x3drjt5khhmzxlshs0tgh6",
+    "cerberus1d8s9uzw2vpa5rk3n82l3tz9phd382xr8ze5e3c",
+    "cerberus1whhx6h2nu4ywqyhqjdhezld5hyle77n5qccf6w",
+    "cerberus1dtq0y9reqst7d99fd3c7x6dflh4eazm4t68f4u",
+    "cerberus1xx0g3dl0dhu6kmxfdxek4n4dfdanvq3lyyt25m",
+    "cerberus164nmq8ugvhy4wgesp848r0hl0m34akt5damnus"
 
 # Raw export (do not use)
 Contains the Excluded addresses.
